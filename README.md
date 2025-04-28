@@ -123,6 +123,3 @@ Dataset terdiri dari 7043 pelanggan Telco di California dan dikompilasi dari beb
 > ✨ Terima kasih telah mengunjungi project ini! Feedback dan saran sangat dihargai!
 
 ---
-
-Kalau kamu mau, aku juga bisa buatkan **struktur file/folder** + contoh isi **requirements.txt** supaya repo kamu langsung **siap rilis** di GitHub!  
-Mau sekalian dibuatin? 🚀🚀🚀
