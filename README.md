@@ -1,16 +1,3 @@
-# customer-churn-analytics
-
-Tentu! Aku akan buatkan README versi **lebih menarik dan profesional**, lengkap dengan ide **penempatan gambar** 📸 supaya mentor kamu makin paham dan terkesan.
-
-Kamu bisa tambahkan gambar-gambar berikut:
-- **EDA Visualization** (contoh: churn distribution, contract type vs churn)
-- **Model Evaluation** (contoh: confusion matrix atau ROC curve)
-- **Tampilan Streamlit App** (screenshot aplikasi saat live)
-
-Berikut contoh **README.md** dengan format markdown + gambar:
-
----
-
 # 📊 Telco Customer Churn Prediction Project
 
 <div align="center">
